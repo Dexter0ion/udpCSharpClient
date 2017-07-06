@@ -1,0 +1,9 @@
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpClient\udpCSharpClient\bin\Debug\udpCSharpClient.exe.config
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpClient\udpCSharpClient\obj\Debug\udpCSharpClient.csprojResolveAssemblyReference.cache
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpClient\udpCSharpClient\obj\Debug\udpCSharpClient.Form1.resources
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpClient\udpCSharpClient\obj\Debug\udpCSharpClient.Properties.Resources.resources
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpClient\udpCSharpClient\obj\Debug\udpCSharpClient.csproj.GenerateResource.Cache
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpClient\udpCSharpClient\bin\Debug\udpCSharpClient.exe
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpClient\udpCSharpClient\bin\Debug\udpCSharpClient.pdb
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpClient\udpCSharpClient\obj\Debug\udpCSharpClient.exe
+c:\users\think\documents\visual studio 2015\Projects\udpCSharpClient\udpCSharpClient\obj\Debug\udpCSharpClient.pdb
