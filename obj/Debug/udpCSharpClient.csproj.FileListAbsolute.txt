@@ -7,3 +7,7 @@ c:\users\think\documents\visual studio 2015\Projects\udpCSharpClient\udpCSharpCl
 c:\users\think\documents\visual studio 2015\Projects\udpCSharpClient\udpCSharpClient\bin\Debug\udpCSharpClient.pdb
 c:\users\think\documents\visual studio 2015\Projects\udpCSharpClient\udpCSharpClient\obj\Debug\udpCSharpClient.exe
 c:\users\think\documents\visual studio 2015\Projects\udpCSharpClient\udpCSharpClient\obj\Debug\udpCSharpClient.pdb
+C:\Users\think\Documents\Visual Studio 2015\Projects\udpCSharpClient\udpCSharpClient\bin\Debug\udpCSharpClient.exe.manifest
+C:\Users\think\Documents\Visual Studio 2015\Projects\udpCSharpClient\udpCSharpClient\bin\Debug\udpCSharpClient.application
+C:\Users\think\Documents\Visual Studio 2015\Projects\udpCSharpClient\udpCSharpClient\obj\Debug\udpCSharpClient.exe.manifest
+C:\Users\think\Documents\Visual Studio 2015\Projects\udpCSharpClient\udpCSharpClient\obj\Debug\udpCSharpClient.application
